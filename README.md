@@ -21,13 +21,11 @@ A video is attached here to see the working of app. [Watch Video](https://drive.
  * **1st Prize** in the **Vahan Hackathon** segment of the event **Autosparx 2021** organised by [SAE India](https://saeindia.org/) and [ARAI Academy](https://academy.araiindia.com/)
 
 In this event their were more then 600 teams participating out of which our team won in the Vahan Hackathon segment. We recieved a cash prise of **Rs. 10,000** and guidance by ARAI Academy.
-<div align="centre">
-    <img src="./certificate.jpeg" width="800px">
-</div>
+
 
 
 # Our Team
  * **Team Leader** : [Surbhi Suman (@surbhi-sola)](https://github.com/surbhi-sola) 
  * **App Developer** : [Tanay Kumar (@tanay388)](https://github.com/tanay388)
- * **Reserch Done By** : Yash Maheshwari
+ * **Reserch Done By** : Yash Maheshwari & Anand Gopal
  * **Other Teammates** : Shivam Mishra & Sibten Raza
